@@ -21,6 +21,10 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public IActionResult zc()
+        {
+            return View();
+        }
         public IActionResult Detail()
         {
             return View();
